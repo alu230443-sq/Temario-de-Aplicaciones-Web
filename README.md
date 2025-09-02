@@ -10,44 +10,44 @@
 2.3 La arquitectura web REST (Representational State Transfer) es un estilo arquitectónico que utiliza los principios de la web para crear APIs escalables y flexibles, basándose en recursos y métodos HTTP.  
 
   3. -Lenguajes y tecnologías fundamentales  
-HTML, CSS, JavaScript, PHP, MySQL
+HTML, CSS, JavaScript, PHP y MySQL son un conjunto de tecnologías fundamentales para el desarrollo web, donde HTML crea la estructura del contenido, CSS define su estilo, JavaScript añade interactividad, PHP maneja la lógica del lado del servidor y la comunicación con bases de datos, y MySQL almacena y organiza toda la información.  
 
   4.-Control de versiones  
-Git y GitHub  
-Flujo de trabajo con ramas (branching, merge, pull requests)  
+4.1 Git es un sistema de control de versiones que rastrea los cambios en archivos y proyectos, mientras que GitHub es una plataforma en la nube para alojar repositorios Git, facilitar la colaboración y compartir código.  
+4.2 Un flujo de trabajo colaborativo en el que los desarrolladores crean ramas para trabajar en nuevas funciones o correcciones, sin afectar la rama principal (main) del proyecto  
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
   1.-Diseño e implementación del frontend  
-Maquetación/Wireframe/Mockup  
-API  
+1.1 La maquetación se refiere al proceso de dar estructura y forma a un diseño, utilizando wireframes para el esqueleto funcional y bocetos de baja fidelidad, y mockups para una representación visual detallada con diseño y elementos gráficos que simulan la apariencia del producto final. Los wireframes se centran en la estructura y el flujo de usuario.  
+1.2 Una API (interfaz de programación de aplicaciones) es un conjunto de reglas y definiciones que permite que dos aplicaciones de software diferentes se comuniquen entre sí, actuando como un puente para el intercambio de datos y servicios.  
 
   2.-Diseño e implementación del backend  
-Servidor  
-Manejo de peticiones y respuestas HTTP  
-Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)  
+2.1 Servidor  
+2.2 Manejo de peticiones y respuestas HTTP  
+2.3 Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)  
 
   3.-Bases de datos  
- Modelado de datos y relaciones  
-ORM (Object Relational Mapping)  
-CRUD desde el backend  
+3.1 Modelado de datos y relaciones  
+3.2 ORM (Object Relational Mapping)  
+3.3 CRUD desde el backend  
 
   4.-Seguridad básica en aplicaciones web  
-Validación de formularios  
-Autenticación y autorización   
+4.1 Validación de formularios  
+4.2 Autenticación y autorización   
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
   1. -Integración de frontend y backend  
-Interfaz de usuario Frontend  
-Manejo de API  
-Proceso de Solicitud y Respuesta de Backend  
+1.1 Interfaz de usuario Frontend  
+1.2 Manejo de API  
+1.3 Proceso de Solicitud y Respuesta de Backend  
 
   2.- Almacenamiento en Servidor  
-Tipos de servidores   
-Servidores y servicios de hosting   
-Proveedores de Servicios de Almacenamiento  
+2.1 Tipos de servidores   
+2.2 Servidores y servicios de hosting   
+2.3 Proveedores de Servicios de Almacenamiento  
 
   3.-Optimización y rendimiento  
-Optimización de recursos (imágenes, scripts)  
-Despliegue de aplicaciones web  
-CI/CD básico  
-Documentación del proyecto  
+3.1 Optimización de recursos (imágenes, scripts)  
+3.2 Despliegue de aplicaciones web  
+3.3 CI/CD básico  
+3.4 Documentación del proyecto  
