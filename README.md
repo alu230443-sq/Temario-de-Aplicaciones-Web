@@ -1,8 +1,8 @@
 # Temario-de-Aplicaciones-Web
 # Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
 1.-Introducción al desarrollo web  
-Historia y evolución del desarrollo web  
-Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
+1.2 Comenzó a finales de los años 80 con Tim Berners-Lee, quien creó la World Wide Web en el CERN, lanzando el primer sitio web en 1991 y estableciendo HTML, HTTP y URL. La Web 1.0 fue estática, pero la Web 2.0 trajo interactividad y colaboración con tecnologías como CSS y JavaScript.  
+1.3 Tipos de aplicaciones web (estáticas, dinámicas, SPA, PWA)  
 2.Arquitectura de aplicaciones web  
 Cliente-Servidor  
 Arquitectura de tres capas (presentación, lógica, datos)  
