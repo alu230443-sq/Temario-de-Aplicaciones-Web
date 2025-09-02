@@ -22,12 +22,12 @@ HTML, CSS, JavaScript, PHP y MySQL son un conjunto de tecnologías fundamentales
 1.2 Una API (interfaz de programación de aplicaciones) es un conjunto de reglas y definiciones que permite que dos aplicaciones de software diferentes se comuniquen entre sí, actuando como un puente para el intercambio de datos y servicios.  
 
   2.-Diseño e implementación del backend  
-2.1 Servidor  
-2.2 Manejo de peticiones y respuestas HTTP  
-2.3 Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)  
+2.1 El diseño e implementación del backend de un servidor implica crear la lógica y la infraestructura del lado del servidor para procesar datos, interactuar con bases de datos y gestionar la seguridad de una aplicación web.  
+2.2 Para diseñar e implementar un backend, se elige un lenguaje (como Python, Java, Node.js) y un framework (Django, Spring, Express) para construir la API, se implementa la lógica de negocio con seguridad, se integra con bases de datos y se despliega en la infraestructura.  
+2.3 Elegir un lenguaje y framework de backend, diseñar el esquema de la base de datos (SQL como MySQL/PostgreSQL, o NoSQL como MongoDB), e implementar la lógica para conectar, recuperar y manipular datos.  
 
   3.-Bases de datos  
-3.1 Modelado de datos y relaciones  
+3.1 El modelado de datos en bases de datos relacionales es el proceso de diseñar la estructura y las relaciones entre las tablas para organizar y gestionar eficientemente la información.  
 3.2 ORM (Object Relational Mapping)  
 3.3 CRUD desde el backend  
 
