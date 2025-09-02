@@ -1,5 +1,6 @@
 # Temario-de-Aplicaciones-Web
 # Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
+
   1.-Introducción al desarrollo web  
 1.1 Comenzó a finales de los años 80 con Tim Berners-Lee, quien creó la World Wide Web en el CERN, lanzando el primer sitio web en 1991 y estableciendo HTML, HTTP y URL. La Web 1.0 fue estática, pero la Web 2.0 trajo interactividad y colaboración con tecnologías como CSS y JavaScript.  
 1.2 Se clasifican en estáticas (contenido fijo), dinámicas (contenido generado por el servidor), de página única (SPA, que cargan una sola página con contenido actualizado dinámicamente) y progresivas (PWA, que ofrecen experiencias nativas y offline con funcionalidades como notificaciones push).   
@@ -17,6 +18,7 @@ HTML, CSS, JavaScript, PHP y MySQL son un conjunto de tecnologías fundamentales
 4.2 Un flujo de trabajo colaborativo en el que los desarrolladores crean ramas para trabajar en nuevas funciones o correcciones, sin afectar la rama principal (main) del proyecto  
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
+
   1.-Diseño e implementación del frontend  
 1.1 La maquetación se refiere al proceso de dar estructura y forma a un diseño, utilizando wireframes para el esqueleto funcional y bocetos de baja fidelidad, y mockups para una representación visual detallada con diseño y elementos gráficos que simulan la apariencia del producto final. Los wireframes se centran en la estructura y el flujo de usuario.  
 1.2 Una API (interfaz de programación de aplicaciones) es un conjunto de reglas y definiciones que permite que dos aplicaciones de software diferentes se comuniquen entre sí, actuando como un puente para el intercambio de datos y servicios.  
@@ -36,6 +38,8 @@ HTML, CSS, JavaScript, PHP y MySQL son un conjunto de tecnologías fundamentales
 4.2  La autenticación es el primer paso para confirmar quién es el usuario, mientras que la autorización es el segundo, definiendo el nivel de acceso o permisos que tendrá.   
 
 # Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
+<img width="306" height="167" alt="image" src="https://github.com/user-attachments/assets/ceab823b-a660-45dc-a99f-8bb0d74a5f12" />
+
   1. -Integración de frontend y backend  
 1.1 La integración del frontend y el backend (la parte que gestiona la lógica y los datos) se realiza a través de APIs (Interfaces de Programación de Aplicaciones) que permiten la comunicación y el intercambio de información entre ambos.  
 1.2 La integración de frontend y backend mediante APIs es el proceso de conectar la parte visible de una aplicación (frontend) con la que gestiona los datos y la lógica de negocio (backend).  
@@ -60,3 +64,7 @@ Ejemplos populares de proveedores incluyen Google Drive, Microsoft OneDrive, Dro
 https://web.dev/learn/performance/image-performance?hl=es-419  
 https://tuatara.co/blog/software/optimizacion-rendimiento-sitios-web  
 https://www.bitrix24.mx/articles/optimizar-proyectos-y-mejorar.php#:~:text=%C2%BFQu%C3%A9%20es%20la%20optimizaci%C3%B3n%20de,deseado%20y%20dentro%20del%20presupuesto.  
+https://www.bbc.com/mundo/noticias-47524843#:~:text=La%20World%20Wide%20Web%20(la,que%20trabajaban%20en%20la%20instituci%C3%B3n.  
+https://www.daemon4.com/empresa/noticias/arquitectura-cliente-servidor/#:~:text=La%20arquitectura%20cliente%2Dservidor%20es,de%20informaci%C3%B3n%20bidireccional%20entre%20ambos.  
+https://miro.com/es/wireframe/wireframe-vs-mockup/  
+https://medium.com/@adityagaba1322/streamlining-backend-frontend-integration-a-quick-guide-145eca3cca05  
