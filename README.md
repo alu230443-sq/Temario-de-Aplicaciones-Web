@@ -10,7 +10,8 @@
 2.3 La arquitectura web REST (Representational State Transfer) es un estilo arquitectónico que utiliza los principios de la web para crear APIs escalables y flexibles, basándose en recursos y métodos HTTP.  
 
   3. -Lenguajes y tecnologías fundamentales  
-HTML, CSS, JavaScript, PHP, MySQL  
+HTML, CSS, JavaScript, PHP, MySQL
+
   4.-Control de versiones  
 Git y GitHub  
 Flujo de trabajo con ramas (branching, merge, pull requests)  
@@ -19,14 +20,17 @@ Flujo de trabajo con ramas (branching, merge, pull requests)
   1.-Diseño e implementación del frontend  
 Maquetación/Wireframe/Mockup  
 API  
+
   2.-Diseño e implementación del backend  
 Servidor  
 Manejo de peticiones y respuestas HTTP  
 Conexión a bases de datos (MySQL, PostgreSQL, MongoDB)  
+
   3.-Bases de datos  
  Modelado de datos y relaciones  
 ORM (Object Relational Mapping)  
 CRUD desde el backend  
+
   4.-Seguridad básica en aplicaciones web  
 Validación de formularios  
 Autenticación y autorización   
