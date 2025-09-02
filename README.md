@@ -13,7 +13,7 @@ HTML, CSS, JavaScript, PHP, MySQL
 Git y GitHub  
 Flujo de trabajo con ramas (branching, merge, pull requests)  
 
-Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
+# Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
 1.-Diseño e implementación del frontend  
 Maquetación/Wireframe/Mockup  
 API  
@@ -29,7 +29,7 @@ CRUD desde el backend
 Validación de formularios  
 Autenticación y autorización   
 
-Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
+# Propósito de Aprendizaje 3: Implementar y desplegar una aplicación web funcional  
 1. -Integración de frontend y backend  
 Interfaz de usuario Frontend  
 Manejo de API  
