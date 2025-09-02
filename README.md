@@ -1,5 +1,6 @@
 # Temario-de-Aplicaciones-Web
 # Propósito de Aprendizaje 1: Comprender los fundamentos del desarrollo de aplicaciones web.  
+<img width="291" height="185" alt="image" src="https://github.com/user-attachments/assets/7dde8725-2a04-47e6-9f7f-1a9cc4423463" />
 
   1.-Introducción al desarrollo web  
 1.1 Comenzó a finales de los años 80 con Tim Berners-Lee, quien creó la World Wide Web en el CERN, lanzando el primer sitio web en 1991 y estableciendo HTML, HTTP y URL. La Web 1.0 fue estática, pero la Web 2.0 trajo interactividad y colaboración con tecnologías como CSS y JavaScript.  
@@ -18,6 +19,7 @@ HTML, CSS, JavaScript, PHP y MySQL son un conjunto de tecnologías fundamentales
 4.2 Un flujo de trabajo colaborativo en el que los desarrolladores crean ramas para trabajar en nuevas funciones o correcciones, sin afectar la rama principal (main) del proyecto  
 
 # Propósito de Aprendizaje 2: Desarrollar componentes y funcionalidades de una aplicación web  
+<img width="277" height="171" alt="image" src="https://github.com/user-attachments/assets/40a5b924-e922-4da3-8f88-81d342f99092" />
 
   1.-Diseño e implementación del frontend  
 1.1 La maquetación se refiere al proceso de dar estructura y forma a un diseño, utilizando wireframes para el esqueleto funcional y bocetos de baja fidelidad, y mockups para una representación visual detallada con diseño y elementos gráficos que simulan la apariencia del producto final. Los wireframes se centran en la estructura y el flujo de usuario.  
