@@ -3,10 +3,12 @@
   1.-Introducción al desarrollo web  
 1.1 Comenzó a finales de los años 80 con Tim Berners-Lee, quien creó la World Wide Web en el CERN, lanzando el primer sitio web en 1991 y estableciendo HTML, HTTP y URL. La Web 1.0 fue estática, pero la Web 2.0 trajo interactividad y colaboración con tecnologías como CSS y JavaScript.  
 1.2 Se clasifican en estáticas (contenido fijo), dinámicas (contenido generado por el servidor), de página única (SPA, que cargan una sola página con contenido actualizado dinámicamente) y progresivas (PWA, que ofrecen experiencias nativas y offline con funcionalidades como notificaciones push).   
+
   2.Arquitectura de aplicaciones web  
 2.1 Es un modelo informático donde un cliente (el usuario o dispositivo) solicita servicios o recursos, mientras que un servidor (un sistema o computadora central) los proporciona, procesa las peticiones y gestiona los datos.    
 2.2 Es un patrón de diseño que divide una aplicación web en tres componentes lógicos: la capa de presentación (interfaz de usuario), la capa de lógica de negocio (procesamiento y reglas) y la capa de datos (almacenamiento y acceso a la información).  
 2.3 La arquitectura web REST (Representational State Transfer) es un estilo arquitectónico que utiliza los principios de la web para crear APIs escalables y flexibles, basándose en recursos y métodos HTTP.  
+
   3. -Lenguajes y tecnologías fundamentales  
 HTML, CSS, JavaScript, PHP, MySQL  
   4.-Control de versiones  
